@@ -8,6 +8,16 @@ send simple text using kakao mail
 pip install kakaomail
 ```
 
+or
+
+```shell
+git clone https://github.com/aloecandy/kakaomail.git
+cd kakaomail
+python setup.py install
+```
+
+
+
 ## usage
 
 ```python
