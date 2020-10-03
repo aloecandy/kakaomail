@@ -1,7 +1,7 @@
 __title__ = 'kakaomail'
 __license__ = 'MIT'
 __author__ = 'Kyunghoon (aloecandy@gmail.com)'
-__version__ = '0.1.1'
+__version__ = '0.1.3'
 
 
 import smtplib
